@@ -15,6 +15,8 @@ brew install --cask claudius
 brew upgrade --cask claudius
 ```
 
+**Note:** Claudius also supports automatic in-app updates. When a new version is available, you'll see a banner in the app with a one-click "Restart to Update" option.
+
 ## Uninstalling
 
 ```bash
@@ -26,6 +28,22 @@ To also remove configuration files:
 ```bash
 brew uninstall --cask --zap claudius
 ```
+
+This removes all data stored in `~/.claudius/` including your database, preferences, and API keys.
+
+## Requirements
+
+- macOS (Apple Silicon)
+- Anthropic API key
+
+## Features
+
+- **Agentic Research**: Claude uses tools to actively research your topics
+- **MCP Server Support**: Extend with Brave Search, Perplexity, and more
+- **Daily Briefings**: Curated research cards with summaries and sources
+- **Auto-Update**: Automatic update detection with in-app notifications
+- **CLI**: Full command-line interface for automation
+- **Privacy First**: All data stays on your machine
 
 ## About Claudius
 
