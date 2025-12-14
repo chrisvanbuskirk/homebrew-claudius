@@ -1,6 +1,6 @@
 cask "claudius" do
-  version "0.3.1"
-  sha256 "5e1efe8022f9c85566752bac8b9b79bd1d03d8f15eb6b1bd91aadef817e9f7a6"
+  version "0.3.2"
+  sha256 "278d85c7d715ea2cb2511d945dd7ee242d0072867b05ead984108e0b4eca0efa"
 
   url "https://github.com/chrisvanbuskirk/claudius/releases/download/v#{version}/Claudius_#{version}_aarch64.dmg"
   name "Claudius"
