@@ -1,5 +1,9 @@
 # Homebrew Tap for Claudius
 
+> [!WARNING]
+> ## Retired project
+> Claudius is discontinued. This tap is retained only so existing installs have an archival reference. Do not use it for new installations; no further cask updates are planned.
+
 This is the official Homebrew tap for [Claudius](https://github.com/chrisvanbuskirk/claudius), a local AI research briefing agent powered by Claude.
 
 ## Installation
