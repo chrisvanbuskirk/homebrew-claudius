@@ -1,4 +1,6 @@
 cask "claudius" do
+  deprecate! date: "2026-07-25", because: :discontinued
+
   version "0.5.4"
   sha256 "24257bb48194ed80f5e9f914ee02ad0d68306e8f80f5bac293979b069fca4935"
 
